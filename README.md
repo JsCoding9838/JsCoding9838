@@ -1,14 +1,12 @@
 ![RERN Stack Developer](https://media-exp2.licdn.com/dms/image/C4E16AQGaYjr2KhF6pA/profile-displaybackgroundimage-shrink_350_1400/0/1648980231875?e=1661990400&v=beta&t=ZXmR1Pn01R09NMFO_kEKoMAE1c2cYAkE-09MLNim_Z4)
 
-### Hi there 👋, I'm Jubayer Hosain
+### Hi there , I'm Jubayer Hosain 👋
 #### RERN Stack Developer
 
 
 I'm MERN Stack Developer and I'm passionate about learning new skills I have completed two training courses in graphic design and completed web development from programming hero. I have a passion for learning and sharing my knowledge with others as publicly as possible. Most of the time I work with javaScript, react, node and MongoDB.
 
 Skills: REACT / JS / HTML / CSS/NODE/MONGODB
-
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/JsCoding9838)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jubayer-hosain-947010236//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/jubayer2005)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/19055642/jubayer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jubayer-hosain-portfolio.netlify.app/)  
